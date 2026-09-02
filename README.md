@@ -25,7 +25,7 @@ I enjoy turning ideas into polished digital products — from responsive interfa
 * 🧩 Interested in **scalable architecture, performance, UI/UX & developer experience**
 * 🌱 Continuously learning and exploring modern web technologies
 * 📂 Explore my projects → **[GitHub](https://github.com/iamsuvodevnath)**
-* 📫 Reach me at **[suvonath.dev@gmail.com](mailto:suvonath.dev@gmail.com)**
+* 📫 Email: <a href="mailto:suvonath.dev@gmail.com"><strong>suvonath.dev@gmail.com</strong></a>**
 
 
 
