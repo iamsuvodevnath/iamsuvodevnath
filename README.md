@@ -83,17 +83,16 @@ A modern learning management system designed to provide a complete digital learn
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=suvodevnath&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=iamsuvodevnath&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
     height="180"
     alt="GitHub Statistics"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvodevnath&layout=compact&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsuvodevnath&layout=compact&hide_border=true"
     height="180"
     alt="Top Languages"
   />
 </p>
-
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=suvodevnath&hide_border=true"
