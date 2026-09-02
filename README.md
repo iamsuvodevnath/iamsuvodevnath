@@ -1,36 +1,131 @@
-<h1 align="center">Hi 👋, I'm Suvo Dev Nath</h1>
-<h3 align="center">Full-Stack Developer | Building Scalable, High-Performance & Production-Ready Web Applications</h3>
+# 👋 Hi, I'm Suvo Dev Nath
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suvodevnath&label=Profile%20views&color=0e75b6&style=flat" alt="suvodevnath" /> </p>
+### Full-Stack Developer · React · Next.js · TypeScript · Node.js
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suvodevnath" alt="suvodevnath" /></a> </p>
+I build **scalable, high-performance, and production-ready web applications** with modern technologies and clean, maintainable architecture.
 
-<p align="left"> <a href="https://twitter.com/iamsuvodevnath" target="blank"><img src="https://img.shields.io/twitter/follow/iamsuvodevnath?logo=twitter&style=for-the-badge" alt="iamsuvodevnath" /></a> </p>
+I enjoy turning ideas into polished digital products — from responsive interfaces and complex frontend systems to robust APIs, databases, authentication, and full-stack applications.
 
-- 🔭 I’m currently working on [Hypercampus-LMS](https://github.com/iamsuvodevnath/-Hypercampus-LMS)
-
-- 👨‍💻 All of my projects are available at [https://github.com/iamsuvodevnath](https://github.com/iamsuvodevnath)
-
-- 📫 How to reach me **suvonath.dev@gmail.com**
-
-- 📄 Know about my experiences [React, Next.js, JavaScript, TypeScript, Tailwind CSS & Full-Stack Web Development](React, Next.js, JavaScript, TypeScript, Tailwind CSS & Full-Stack Web Development)
-
-- ⚡ Fun fact **I enjoy turning ideas into real-world web applications.**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/iamsuvodevnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamsuvodevnath" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iamsuvodevnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamsuvodevnath" height="30" width="40" /></a>
-<a href="https://fb.com/iamsuvodevnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamsuvodevnath" height="30" width="40" /></a>
-<a href="https://instagram.com/iamsuvodevnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamsuvodevnath" height="30" width="40" /></a>
+  <a href="https://github.com/suvodevnath">
+    <img src="https://komarev.com/ghpvc/?username=suvodevnath&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/suvodevnath?tab=followers">
+    <img src="https://img.shields.io/github/followers/suvodevnath?label=Followers&style=flat" alt="GitHub Followers" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suvodevnath&show_icons=true&locale=en&layout=compact" alt="suvodevnath" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suvodevnath&show_icons=true&locale=en" alt="suvodevnath" /></p>
+* 🔭 Currently building **[Hypercampus-LMS](https://github.com/iamsuvodevnath/-Hypercampus-LMS)**
+* 💻 Focused on **modern full-stack web development**
+* ⚡ Experienced with **React, Next.js, TypeScript & the MERN ecosystem**
+* 🧩 Interested in **scalable architecture, performance, UI/UX & developer experience**
+* 🌱 Continuously learning and exploring modern web technologies
+* 📂 Explore my projects → **[GitHub](https://github.com/suvodevnath)**
+* 📫 Reach me at **[suvonath.dev@gmail.com](mailto:suvonath.dev@gmail.com)**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suvodevnath&" alt="suvodevnath" /></p>
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,bootstrap" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,graphql" />
+</p>
+
+### Tools & Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
+</p>
+
+---
+
+## 💡 What I Build
+
+```text
+▸ Modern Frontend Applications
+▸ Full-Stack Web Applications
+▸ REST & GraphQL APIs
+▸ Authentication & Authorization Systems
+▸ Responsive & Accessible Interfaces
+▸ Scalable Database-Driven Applications
+▸ Performance-Focused Web Experiences
+```
+
+---
+
+## 📌 Featured Project
+
+### 🎓 Hypercampus LMS
+
+A modern learning management system designed to provide a complete digital learning experience.
+
+**Focus areas:**
+
+`Next.js` · `React` · `TypeScript` · `Node.js` · `MongoDB` · `Tailwind CSS`
+
+🔗 **[View Project →](https://github.com/iamsuvodevnath/-Hypercampus-LMS)**
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=suvodevnath&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
+    height="180"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvodevnath&layout=compact&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=suvodevnath&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/iamsuvodevnath" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/iamsuvodevnath" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="45" alt="X / Twitter" />
+  </a>
+  <a href="https://instagram.com/iamsuvodevnath" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" alt="Instagram" />
+  </a>
+  <a href="https://fb.com/iamsuvodevnath" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" width="45" alt="Facebook" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building ideas into scalable digital experiences.</i>
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! ⭐</b>
+</p>
