@@ -81,7 +81,7 @@ A modern learning management system designed to provide a complete digital learn
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=suvodevnath&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
     height="180"
@@ -92,7 +92,7 @@ A modern learning management system designed to provide a complete digital learn
     height="180"
     alt="Top Languages"
   />
-</p>
+</p> -->
 
 <p align="center">
   <img
@@ -102,8 +102,6 @@ A modern learning management system designed to provide a complete digital learn
 </p>
 
 ---
-
-## 🌐 Connect With Me
 
 ## 🌐 Connect With Me
 
