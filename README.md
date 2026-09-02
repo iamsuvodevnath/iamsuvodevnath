@@ -24,7 +24,7 @@ I enjoy turning ideas into polished digital products — from responsive interfa
 * ⚡ Experienced with **React, Next.js, TypeScript & the MERN ecosystem**
 * 🧩 Interested in **scalable architecture, performance, UI/UX & developer experience**
 * 🌱 Continuously learning and exploring modern web technologies
-* 📂 Explore my projects → **[GitHub](https://github.com/suvodevnath)**
+* 📂 Explore my projects → **[GitHub](https://github.com/iamsuvodevnath)**
 * 📫 Reach me at **[suvonath.dev@gmail.com](mailto:suvonath.dev@gmail.com)**
 
 ---
