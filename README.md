@@ -25,7 +25,7 @@ I enjoy turning ideas into polished digital products — from responsive interfa
 * 🧩 Interested in **scalable architecture, performance, UI/UX & developer experience**
 * 🌱 Continuously learning and exploring modern web technologies
 * 📂 Explore my projects → **[GitHub](https://github.com/iamsuvodevnath)**
-* 📫 Email: <a href="mailto:suvonath.dev@gmail.com"><strong>suvonath.dev@gmail.com</strong></a>**
+* 📫 Email: <a href="mailto:suvonath.dev@gmail.com"><strong>suvonath.dev@gmail.com</strong></a>
 
 
 
@@ -53,15 +53,13 @@ I enjoy turning ideas into polished digital products — from responsive interfa
 
 ## 💡 What I Build
 
-
-▸ Modern Frontend Applications
-▸ Full-Stack Web Applications
-▸ REST & GraphQL APIs
-▸ Authentication & Authorization Systems
-▸ Responsive & Accessible Interfaces
-▸ Scalable Database-Driven Applications
-▸ Performance-Focused Web Experiences
-
+- ▸ Modern Frontend Applications
+- ▸ Full-Stack Web Applications
+- ▸ REST & GraphQL APIs
+- ▸ Authentication & Authorization Systems
+- ▸ Responsive & Accessible Interfaces
+- ▸ Scalable Database-Driven Applications
+- ▸ Performance-Focused Web Experiences
 
 ## 📌 Featured Project
 
