@@ -13,11 +13,11 @@ I build **scalable, high-performance, and production-ready web applications** wi
 I enjoy turning ideas into polished digital products — from responsive interfaces and complex frontend systems to robust APIs, databases, authentication, and full-stack applications.
 
 <p align="left">
-  <a href="https://github.com/suvodevnath">
-    <img src="https://komarev.com/ghpvc/?username=suvodevnath&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/iamsuvodevnath">
+    <img src="https://komarev.com/ghpvc/?username=iamsuvodevnath&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
-  <a href="https://github.com/suvodevnath?tab=followers">
-    <img src="https://img.shields.io/github/followers/suvodevnath?label=Followers&style=flat" alt="GitHub Followers" />
+  <a href="https://github.com/iamsuvodevnath?tab=followers">
+    <img src="https://img.shields.io/github/followers/iamsuvodevnath?label=Followers&style=flat" alt="GitHub Followers" />
   </a>
 </p>
 
@@ -97,7 +97,7 @@ A modern, fast, and fully responsive YouTube-inspired web application built to r
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=suvodevnath&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=iamsuvodevnath&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
