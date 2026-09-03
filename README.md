@@ -1,9 +1,12 @@
 <p align="center">
   <img src="./assets/banner.jpg" alt="Suvo Dev Nath" width="100%">
 </p>
-# 👋 Hi, I'm Suvo Dev Nath
 
-### Full-Stack Developer · React · Next.js · TypeScript · Node.js
+<h1 align="center">👋 Hi, I'm Suvo Dev Nath</h1>
+
+<h3 align="center">
+  Full-Stack Developer · React · Next.js · TypeScript · Node.js
+</h3>
 
 I build **scalable, high-performance, and production-ready web applications** with modern technologies and clean, maintainable architecture.
 
