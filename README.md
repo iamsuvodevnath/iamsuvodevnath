@@ -25,7 +25,7 @@ I enjoy turning ideas into polished digital products — from responsive interfa
 
 ## 🚀 About Me
 
-* 🔭 Currently building **[Hypercampus-LMS](https://github.com/iamsuvodevnath/-Hypercampus-LMS)**
+* 🔭 Currently building **[Youtube-clone](https://github.com/iamsuvodevnath/youtube-clone.git)**
 * 💻 Focused on **modern full-stack web development**
 * ⚡ Experienced with **React, Next.js, TypeScript & the MERN ecosystem**
 * 🧩 Interested in **scalable architecture, performance, UI/UX & developer experience**
