@@ -69,16 +69,15 @@ I enjoy turning ideas into polished digital products — from responsive interfa
 
 ## 📌 Featured Project
 
-### 🎓 Hypercampus LMS
+### 📺 YouTube Clone
 
-A modern learning management system designed to provide a complete digital learning experience.
+A modern, fast, and fully responsive YouTube-inspired web application built to recreate the core YouTube browsing experience with a clean and intuitive interface.
 
 **Focus areas:**
 
-`Next.js` · `React` · `TypeScript` · `Node.js` · `MongoDB` · `Tailwind CSS`
+`React 19` · `Vite` · `React Router v7` · `Tailwind CSS` · `JavaScript` · `Responsive Design`
 
-🔗 **[View Project →](https://github.com/iamsuvodevnath/-Hypercampus-LMS)**
-
+🔗 **[View Project →](https://github.com/iamsuvodevnath/youtube-clone)**
 
 
 ## 📊 GitHub Statistics
