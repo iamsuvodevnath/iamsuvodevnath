@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Suvo Dev Nath" width="100%">
+  <img src="./assets/banner.jpg" alt="Suvo Dev Nath" width="100%">
 </p>
 # 👋 Hi, I'm Suvo Dev Nath
 
